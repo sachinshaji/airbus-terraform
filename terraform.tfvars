@@ -1,0 +1,5 @@
+ami="ami-0e1d30f2c40c4c701"
+instance_type="t2.micro"
+key_name="airbus-keypair"
+subnet_id="subnet-8a55d5a4"
+vpc_id="vpc-1ec21364"
